@@ -1,7 +1,7 @@
 Ingredientes:
 
 - leche
-- nesquik
+- nesquik/toddy
 - 1 cuchara
 - 1 vaso
 - azucar (opcional)
