@@ -4,6 +4,7 @@ Ingredientes:
 - nesquik
 - 1 cuchara
 - 1 vaso
+- azucar (opcional)
 
 Preparacion.
 
@@ -12,3 +13,4 @@ Preparacion.
 - mezclar con la cuchara
 - poner mas leche
 - volver a mezclar con la cuchara hasta que quede todo de un solo color
+- agregar azucar y volver a mezclar con la cuchara (opcional)
